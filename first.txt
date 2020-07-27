@@ -1,7 +1,7 @@
-git�̗��K�����Ă����܂��B
-��{�I�ȃ��[�N�t���[���w�т܂��B
-�E git add
-�E git commit
-�E git rm
-�E git status
-�E git diff
+gitの練習をしていきます。
+基本的なワークフローを学びます。
+・ git add
+・ git commit
+・ git rm
+・ git status
+・ git diff
